@@ -19,6 +19,10 @@ a {
   color: #fff;
 }
 
+#logo {
+	margin-bottom: 25px;
+}
+
 h1 {
 	font: bold 44px/1.5 sans-serif;
 }
