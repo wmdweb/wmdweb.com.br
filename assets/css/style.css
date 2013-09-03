@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+footer, section, header {
+  display: block;
+}
+
+body {
+  background-color: #7c5aa6;
+  color: #fff;
+  font: normal 16px/1.5 sans-serif;
+  margin: 45px auto;
+  width: 780px;
+}
+
+a {
+  color: #fff;
+}
+
+h1 {
+	font: bold 44px/1.5 sans-serif;
+}
+
+header {
+	text-align:center;
+}
+
+section {
+}
+
+section ul {
+  list-style: none;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+section li {
+  background: rgba(0,0,0,.5);
+	padding: 10px;
+  border-radius: 3px;
+  float: left;
+  width: 350px;
+}
+
+section li:nth-child(odd) {
+  margin-right: 35px;
+}
+
+footer {
+}
